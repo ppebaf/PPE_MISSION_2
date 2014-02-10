@@ -8,6 +8,9 @@
         <meta name="viewport" content="width=device-width">
         <link href="css/style.css" rel="stylesheet">
  
+ 
+
+ 
 </head>
 <body>
 
@@ -48,30 +51,48 @@ Mot de passe :  <INPUT type=text size=20 name=password><BR>
 </div>
 
 
+<p>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</p>
 
+<br><br>
+<button onclick="openWin()">Haha</button>
 
-jkdsnj dshgjsd gjdhg hjdb godnvkjd fkgjndfkj fdkjgfdjkg dfkjg dfkj gdfjkbg jdfbg jdfbgjdfsbgjdfbsjgbdfjhbgdfjbgjhdfbgjhdfbgj hbdfj hfj    begjbdf j dfjh dfjhb dfjhb jdhfb gjhbgjdhbf gjdfhb sgjdhb gjhdbgj bfdjhb gjhdbf gljd<br>
-jkdsnj dshgjsd gjdhg hjdb god<br>
-jkdsnj dshgjsd gjdhg hjdb god<br>
-jkdsnj dshgjsd gjdhg hjdb god<br>
-jkdsnj dshgjsd gjdhg hjdb god<br>
-jkdsnj dshgjsd gjdhg hjdb god<br>
-jkdsnj dshgjsd gjdhg hjdb god<br>
-jkdsnj dshgjsd gjdhg hjdb god<br>
-jkdsnj dshgjsd gjdhg hjdb god<br>
-jkdsnj dshgjsd gjdhg hjdb god<br>
-jkdsnj dshgjsd gjdhg hjdb god<br>
-jkdsnj dshgjsd gjdhg hjdb god<br>
-jkdsnj dshgjsd gjdhg hjdb god<br>
-jkdsnj dshgjsd gjdhg hjdb god<br>
-jkdsnj dshgjsd gjdhg hjdb god<br>
-jkdsnj dshgjsd gjdhg hjdb god<br>
-jkdsnj dshgjsd gjdhg hjdb god<br>
-jkdsnj dshgjsd gjdhg hjdb god<br>
+<script>
+function openWin()
+{
+window.open("http://www.google.com/");
+window.open("http://www.google.com/");
+window.open("http://www.google.com/");
+window.open("http://www.google.com/");
+window.open("http://www.google.com/");
+window.open("http://www.google.com/");
+window.open("http://www.google.com/");
+window.open("http://www.google.com/");
+window.open("http://www.google.com/");
+window.open("http://www.google.com/");
+window.open("http://www.google.com/");
+window.open("http://www.google.com/");
+window.open("http://www.google.com/");
+window.open("http://www.google.com/");
+window.open("http://www.google.com/");
+window.open("http://www.google.com/");
+window.open("http://www.google.com/");
+window.open("http://www.google.com/");
+window.open("http://www.google.com/");
+window.open("http://www.google.com/");
+window.open("http://www.google.com/");
+window.open("http://www.google.com/");
+window.open("http://www.google.com/");
+window.open("http://www.google.com/");
+
+}
+</script>
+
 </div>
 
 
-
+<footer>PPE Baptiste Domzalski / Axel Bossut / Florian Knockaert</footer>
 
 </body>
 </html>
